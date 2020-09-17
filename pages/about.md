@@ -6,7 +6,7 @@ meta_description: |
   output in the browser or in the generated file _site/about.html.
 permalink: /about
 section: about
-intro_paragraph: |
+intro_paragraph: >
   My name is Albert Farrales and I'm currently 19 years old. 
   I'm a senior about to graduate in two quarters. After college 
   I'm a senior about to graduate in two quarters. After college 
