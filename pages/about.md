@@ -9,12 +9,11 @@ section: about
 intro_paragraph: >
   My name is Albert Farrales and I'm currently 19 years old. 
   I'm a senior about to graduate in two quarters. After college 
-  I'm a senior about to graduate in two quarters. After college 
   I plan to move to Seattle and hopefully start a career in IT. 
-  So far I have an internship as an Account Manager at OMT Enterprises 
+  So far I have an internship as an Acc. Manager at OMT Enterprises 
   Inc. and am attending classes online.
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
 
 ### A heading
 
