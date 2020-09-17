@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Posting on My Blogs Using Netlify
-author: jAlbert Farrales
+author: Albert Farrales
 date: '2020-09-16 12:00:00'
 categories: Albert Farrales Website Dev
 ---
