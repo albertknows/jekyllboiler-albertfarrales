@@ -18,6 +18,6 @@ intro_paragraph: >
   using the Contact Tab above.
   ---
   
-  ![Albert Farrales](Arm Crossed w White Background - Good Fiverr Edit CROPED.jpg)
+  ![Albert Farrales](/assets/img/uploads/Arm Crossed w White Background - Good Fiverr Edit CROPED.jpg)
 
     
