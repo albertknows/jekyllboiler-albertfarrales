@@ -14,5 +14,5 @@ intro_paragraph: >
   The HTML, CSS and JavaScript in this template are extremely minimal, 
   which makes the code easy to build on top of or replace completely.
 
-  Feel free to follow me on LinkedInusing the About Tab or contact me 
+  Feel free to follow me on LinkedIn using the About Tab or contact me 
   using the Contact Tab above.
