@@ -17,7 +17,7 @@ intro_paragraph: >
   Feel free to follow me on LinkedIn using the About Tab or contact me 
   using the Contact Tab above.
   
-  ![Netlify CMS Screenshot](Arm Crossed w White Background - Good Fiverr Edit.jpg)
+  ![Albert Farrales](Arm Crossed w White Background - Good Fiverr Edit CROPED.jpg)
   
   Thanks!
     
