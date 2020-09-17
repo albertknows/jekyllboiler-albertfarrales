@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The most recent post so far
-author: john_doe
-date: '2018-07-19 10:07:32'
+title: How to Create Your Own Website Like Mine for Less than $10
+author: Albert Farrales
+date: '2020-09-16 10:07:32'
 intro_paragraph: ''
-categories: misc
+categories: Albert Farrales Web Design
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborumo.
+First off, I'd reccomend obtaining a domain name that holds some significance. That is unless you are fine with the generic website names that Netlify gives such as https://trusting-poincare-b8f299.netlify.app/blog. After you have done this head on over to Netlify and find a template of your liking.
