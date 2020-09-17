@@ -6,6 +6,9 @@ section: home
 intro_paragraph: >
   By:  Albert Farrales
 ---
+  
+  ![Albert Farrales](/assets/img/uploads/Arm Crossed w White Background - Good Fiverr Edit CROPED.jpg)
+
   I was just curious during Coronavirus and decided to see how much it 
   would cost to make a static website. So far I've paid 9 dollars for 
   my domain name, albertfarrales.com. The hosting is completely free 
@@ -16,8 +19,7 @@ intro_paragraph: >
 
   Feel free to follow me on LinkedIn using the About Tab or contact me 
   using the Contact Tab above.
-  ---
   
-  ![Albert Farrales](/assets/img/uploads/Arm Crossed w White Background - Good Fiverr Edit CROPED.jpg)
+  
 
     
