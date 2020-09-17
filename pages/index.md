@@ -4,7 +4,7 @@ title: Welcome to My Website!
 permalink: /
 section: home
 intro_paragraph: >
-  By:  Albert Farrales
+  
 ---
   
   ![Albert Farrales](/assets/img/uploads/Arm Crossed w White Background - Good Fiverr Edit CROPED.jpg)
