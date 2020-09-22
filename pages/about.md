@@ -11,11 +11,17 @@ intro_paragraph: >
 ---
 
   My name is Albert Farrales and I'm currently 19 years old. 
-  I'm a senior about to graduate in two quarters. After college 
+  I'm currently a senior at the University of California, Santa Cruz
+  majoring in Technology and Information Management. After college 
   I plan to move to Seattle and hopefully start a career in IT. 
-  So far I have an internship as an Acc. Manager at OMT Enterprises 
-  Inc. and am attending classes online.
+  So far I have an internship as an Account Manager at OMT Enterprises 
+  Inc. and am attending classes online concurrently at Foothill College 
+  and UCSC.
   
-### Education
+  Side Hustles: Reselling Clothing Online
+  Hobbies: Poker, Basketball, Stocks (r/WallStreetBets)
+  Favorite Artist: Dominic Fike and The Strokes
+  Favorite Color: Green and White
+  Favorite Sports Team: Los Angeles Lakers
+  
 
-I am a Junior at the University of California, Santa Cruz majoring in Technology and Information Management. Graduating in 2021.
