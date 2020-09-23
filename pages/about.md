@@ -19,9 +19,13 @@ intro_paragraph: >
   and UCSC.
   
   Side Hustles: Reselling Clothing Online
+  
   Hobbies: Poker, Basketball, Stocks (r/WallStreetBets)
+  
   Favorite Artist: Dominic Fike and The Strokes
+  
   Favorite Color: Green and White
+  
   Favorite Sports Team: Los Angeles Lakers
   
 
