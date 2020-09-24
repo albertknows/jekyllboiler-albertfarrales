@@ -1,4 +1,4 @@
----
+qqqqqqq---
 layout: page
 title: About
 meta_description: |
@@ -9,7 +9,7 @@ section: about
 intro_paragraph: >
 
 ---
-  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="albert-farrales-181547107"><a class="LI-simple-link" href='https://www.linkedin.com/in/albert-farrales-181547107?trk=profile-badge'>Albert Farrales</a></div>
+  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="albert-farrales-181547107"><a class="LI-simple-link" href='https://www.linkedin.com/in/albert-farrales-181547107?trk=profile-badge'>Follow Me on LinkedIn!</a></div>
   
   My name is Albert Farrales and I'm currently 19 years old. 
   I'm currently a senior at the University of California, Santa Cruz
