@@ -14,3 +14,4 @@ Need to accomplish before leaving the state of Washington.
 - Find Freddie from iCarly
 - Amazon Business Analyst
 - Adopt a Dog
+- Be Happy
