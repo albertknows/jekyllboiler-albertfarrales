@@ -15,3 +15,5 @@ Need to accomplish before leaving the state of Washington.
 - Amazon Business Analyst
 - Adopt a Dog
 - Be Happy
+- Get the Sonics to come back to Seattle
+- ???
