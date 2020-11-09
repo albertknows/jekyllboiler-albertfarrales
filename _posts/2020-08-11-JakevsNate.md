@@ -16,8 +16,10 @@ Don't just take my word on it, here's Faze Sensei's (trained and experience boxi
 
 TLDR why you bet on Jake Paul:
 
-1. Height Advantage of Jake Paul (6'2 compared to Nate Robinson - 5'9)
+1. Height Advantage of Jake Paul (6'1 compared to Nate Robinson - 5'9)
 
 2. Experience and Training (Nate Robinson has had 2 Months to train compared to Jake Pauls 2 Years)
 
-To be continued after midterms...
+Current Positions: 
+
+$750 on Jake Paul (-170 Favorite). Lose 750 / Win 441.18.
