@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My First Blog Post
+title: Random Blog Post
 meta_description: A description may also be set in a post. You can find more information about it in pages/about.md.
 author: Albert Farrales
 date: '2020-09-21 12:00:00'
