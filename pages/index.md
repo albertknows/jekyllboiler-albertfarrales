@@ -7,6 +7,8 @@ intro_paragraph: >
   
 ---
 
+![Albert Farrales](/assets/img/uploads/2010-Kobe.jpg)
+
   I was just curious during Coronavirus and decided to see how much it 
   would cost to make a static website. So far I've paid 9 dollars for 
   my domain name, albertfarrales.com. The hosting is completely free 
