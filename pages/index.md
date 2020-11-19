@@ -4,10 +4,7 @@ title: Welcome to My Website!
 permalink: /
 section: home
 intro_paragraph: >
-  
----
-
-![Albert Farrales](/assets/img/uploads/2010-Kobe.jpg)
+  [Albert Farrales](/assets/img/uploads/2010-Kobe.jpg)
 
   I was just curious during Coronavirus and decided to see how much it 
   would cost to make a static website. So far I've paid 9 dollars for 
@@ -18,6 +15,7 @@ intro_paragraph: >
   which makes the code easy to build on top of or replace completely.
 
   Make sure to drink enough water and take care.
+---
   
   
 
