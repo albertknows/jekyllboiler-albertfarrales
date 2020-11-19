@@ -7,7 +7,7 @@ intro_paragraph: >
   
 ---
   
-  ![Albert Farrales](/assets/img/uploads/Arm Crossed w White Background - Good Fiverr Edit CROPED.jpg)
+  ![Albert Farrales]()
 
   I was just curious during Coronavirus and decided to see how much it 
   would cost to make a static website. So far I've paid 9 dollars for 
